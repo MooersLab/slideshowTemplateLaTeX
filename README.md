@@ -14,13 +14,13 @@ Duplicate the kind of slide that you need and delete or comment out the rest.
 
 ## Sample slide with a code block with colored background and syntax highlighting
 
-<p align="center"><img src="codeBlock.png" max-width: 95%; height: auto;></p>
+<p align="center"><img src="codeBlock.png" max-width: 65%; height: auto;></p>
 
 ## Related repos of possible interest
 
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX/edit/main/README.md)
 - [Writing log template](https://github.com/MooersLab/writingLogTemplate)
-- [Annotated Bibliography] (https://github.com/MooersLab/annotatedBibliography)
+- [Annotated Bibliography](https://github.com/MooersLab/annotatedBibliography)
 - [Diary for 2022 in LaTeX](https://github.com/MooersLab/diary2022inLaTeX)
 - [Diary for 2023 in LaTeX](https://github.com/MooersLab/diary2023inLaTeX)
 - [latex-emacs profile](https://github.com/MooersLab/latex-emacs)

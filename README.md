@@ -14,7 +14,7 @@ Duplicate the kind of slide that you need and delete or comment out the rest.
 
 ## Sample slide with a code block with colored background and syntax highlighting
 
-<p align="center"><img src="codeBlock.png" max-width: 65%; height: auto;></p>
+<p align="center"><img src="polyglot.png" max-width: 50%; height: auto;></p>
 
 ## Related repos of possible interest
 

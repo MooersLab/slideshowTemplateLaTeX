@@ -18,7 +18,7 @@ Duplicate the kind of slide that you need and delete or comment out the rest.
 
 ## Related repos of possible interest
 
-- [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX/edit/main/README.md)
+- [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX)
 - [Writing log template](https://github.com/MooersLab/writingLogTemplate)
 - [Annotated Bibliography](https://github.com/MooersLab/annotatedBibliography)
 - [Diary for 2022 in LaTeX](https://github.com/MooersLab/diary2022inLaTeX)

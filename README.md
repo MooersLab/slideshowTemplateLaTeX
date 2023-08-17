@@ -18,8 +18,10 @@ Duplicate the kind of slide that you need and delete or comment out the rest.
 - I will start a slideshow early to help generate new ideas via visualization. Sometimes the slideshow will preceded the drafting of a manuscript.
 - git clone [Writing log template](https://github.com/MooersLab/writingLogTemplate)
 - Use the writingLog to record your plans, decisions, correpsondence with session chairs or seminar host, and progress in terms of slides developed, text written, and number of times rehearsed.
+- git clone  [Annotated Bibliography](https://github.com/MooersLab/annotatedBibliography) to the subfolder annotatedBibliograpy
+- Use the annotated bibliography to store the bibtex entries and notes and to cite the literature.
 - If you use Overleaf, create a new project and upload the slides and writing log associated files to it.
-- git clone the Overleaf project to the folder ov as a backup.
+- git clone the Overleaf project to the subfolder ov as a backup.
 - Start brainstorming and creating!
 
 ## Sample slide with a code block with colored background and syntax highlighting

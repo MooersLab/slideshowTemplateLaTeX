@@ -20,7 +20,8 @@ Duplicate the kind of slide that you need and delete or comment out the rest.
 - Use the writingLog to record your plans, decisions, correpsondence with session chairs or seminar host, and progress in terms of slides developed, text written, and number of times rehearsed.
 - git clone  [Annotated Bibliography](https://github.com/MooersLab/annotatedBibliography) to the subfolder annotatedBibliograpy
 - Use the annotated bibliography to store the bibtex entries and notes and to cite the literature.
-- If you use Overleaf, create a new project and upload the slides and writing log associated files to it.
+- If you use Overleaf, create a new project and upload the files. Set the compiler to XeLaTeX.
+- If use compile to PDF locally, use the XeLaTeX compiler.
 - git clone the Overleaf project to the subfolder ov as a backup.
 - Start brainstorming and creating!
 

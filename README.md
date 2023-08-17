@@ -12,6 +12,16 @@ I included example slides for the following situations, which covers most scenar
 
 Duplicate the kind of slide that you need and delete or comment out the rest.
 
+## Recommeded workflow
+
+- Stay organized. Create separate folder for each platform talk or seminar in home directory for easy acces and clone this repository into it. I never give the same talk twice. For example, I create a new folder for each seminar, if when the seminars are similar. I will store lectures in separate subfolders in of folder for course.
+- I will start a slideshow early to help generate new ideas via visualization. Sometimes the slideshow will preceded the drafting of a manuscript.
+- git clone [Writing log template](https://github.com/MooersLab/writingLogTemplate)
+- Use the writingLog to record your plans, decisions, correpsondence with session chairs or seminar host, and progress in terms of slides developed, text written, and number of times rehearsed.
+- If you use Overleaf, create a new project and upload the slides and writing log associated files to it.
+- git clone the Overleaf project to the folder ov as a backup.
+- Start brainstorming and creating!
+
 ## Sample slide with a code block with colored background and syntax highlighting
 
 <p align="center"><img src="polyglot.png" max-width: 25%; height: auto;></p>

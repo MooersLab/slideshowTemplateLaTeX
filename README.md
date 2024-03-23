@@ -1,8 +1,13 @@
+![Version](https://img.shields.io/static/v1?label=slideshowTemplateLaTeX&message=0.1&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
+
 # Template for making slideshows in LaTeX
 
 This template has my favorite settings after about eight years of use.
-I strived to make it hard to tell that the slides were made with the beamer documentclass.
-I included example slides for the following situations, which covers most scenarios:
+I strived to make it hard to tell that the slides were made with the beamer document class.
+I included example slides for the following situations, which cover most scenarios:
 
 - black bullet point list (no green triangle for points)
 - imported image
@@ -10,22 +15,22 @@ I included example slides for the following situations, which covers most scenar
 - code block on colored background and syntax highlighted by the minted package
 - display equations
 
-Duplicate the kind of slide that you need and delete or comment out the rest.
+Duplicate the kind of slide you need and delete or comment on the rest.
 
 ## Recommeded workflow
 
-- Stay organized. Create separate folder for each platform talk or seminar in home directory for easy acces and clone this repository into it. I never give the same talk twice. For example, I create a new folder for each seminar, if when the seminars are similar. I will store lectures in separate subfolders in of folder for course.
-- I will start a slideshow early to help generate new ideas via visualization. Sometimes the slideshow will preceded the drafting of a manuscript.
+- Stay organized. Create a separate folder for each platform talk or seminar in the home directory for easy access and clone this repository into it. I never give the same talk twice. For example, I create a new folder for each seminar if they are similar. I will store lectures in separate subfolders in the folder for each course.
+- I will start a slideshow early to help generate new ideas through visualization. Sometimes the slideshow precedes the drafting of a manuscript.
 - git clone [Writing log template](https://github.com/MooersLab/writingLogTemplate)
-- Use the writingLog to record your plans, decisions, correpsondence with session chairs or seminar host, and progress in terms of slides developed, text written, and number of times rehearsed.
+- Use the writing log to record your plans, decisions, correspondence with session chairs or seminar host, and progress in terms of slides developed, text written, and the number of times rehearsed.
 - git clone  [Annotated Bibliography](https://github.com/MooersLab/annotatedBibliography) to the subfolder annotatedBibliograpy
-- Use the annotated bibliography to store the bibtex entries and notes and to cite the literature.
+- Use the annotated bibliography to store the Bibtex entries and notes and to cite the literature.
 - If you use Overleaf, create a new project and upload the files. Set the compiler to XeLaTeX.
-- If use compile to PDF locally, use the XeLaTeX compiler.
+- If using compiles to PDF locally, use the XeLaTeX compiler.
 - git clone the Overleaf project to the subfolder ov as a backup.
 - Start brainstorming and creating!
 
-## Sample slide with a code block with colored background and syntax highlighting
+## Sample slide with a code block with a colored background and syntax highlighting
 
 <p align="center"><img src="polyglot.png" max-width: 25%; height: auto;></p>
 

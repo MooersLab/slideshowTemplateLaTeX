@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=slideshowTemplateLaTeX&message=0.1&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=slideshowTemplateLaTeX&message=0.2&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -34,7 +34,7 @@ Duplicate the kind of slide you need and delete or comment on the rest.
 
 <p align="center"><img src="polyglot.png" max-width: 25%; height: auto;></p>
 
-## Related repos of possible interest
+## Related repositories of possible interest
 
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX)
 - [Writing log template](https://github.com/MooersLab/writingLogTemplate)
@@ -47,3 +47,17 @@ Duplicate the kind of slide you need and delete or comment on the rest.
 - [Slides from talk about LaTeX in Emacs](https://github.com/MooersLab/BerlinEmacsAugust2022)
 - [Slides from talk about GhostText](https://github.com/MooersLab/DSW22ghosttext)
 - [Video link to talk about GhostText](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/4da0872f028c4255ae12935655e911321d)
+
+## Update history
+
+|Version      | Changes                                                                                                                                    | Date                 |
+|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+| Version 0.2 |  Added funding and update table.                                                                                                           | 2024 May 4           |
+
+## Funding
+
+- NIH: R01 CA242845, R01 AI088011
+- NIH: P30 CA225520 (PI: R. Mannel); P20GM103640 and P30GM145423 (PI: A. West)
+
+
+

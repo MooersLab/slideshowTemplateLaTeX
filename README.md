@@ -1,8 +1,6 @@
 ![Version](https://img.shields.io/static/v1?label=slideshowTemplateLaTeX&message=0.2&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-
-
 # Template for making slideshows in LaTeX
 
 This template has my favorite settings after about eight years of use.
@@ -17,17 +15,17 @@ I included example slides for the following situations, which cover most scenari
 
 Duplicate the kind of slide you need and delete or comment on the rest.
 
-## Recommeded workflow
+## Recommended workflow
 
 - Stay organized. Create a separate folder for each platform talk or seminar in the home directory for easy access and clone this repository into it. I never give the same talk twice. For example, I create a new folder for each seminar if they are similar. I will store lectures in separate subfolders in the folder for each course.
-- I will start a slideshow early to help generate new ideas through visualization. Sometimes the slideshow precedes the drafting of a manuscript.
+- I will start a slideshow early to help generate new ideas through visualization. Sometimes, the slideshow precedes the drafting of a manuscript.
 - git clone [Writing log template](https://github.com/MooersLab/writingLogTemplate)
-- Use the writing log to record your plans, decisions, correspondence with session chairs or seminar host, and progress in terms of slides developed, text written, and the number of times rehearsed.
+- Use the writing log to record your plans, decisions, correspondence with session chairs or seminar hosts, and progress regarding slides developed, text written, and the number of times rehearsed.
 - git clone  [Annotated Bibliography](https://github.com/MooersLab/annotatedBibliography) to the subfolder annotatedBibliograpy
 - Use the annotated bibliography to store the Bibtex entries and notes and to cite the literature.
 - If you use Overleaf, create a new project and upload the files. Set the compiler to XeLaTeX.
 - If using compiles to PDF locally, use the XeLaTeX compiler.
-- git clone the Overleaf project to the subfolder ov as a backup.
+- git clone the Overleaf project to the subfolder `ov` as a backup.
 - Start brainstorming and creating!
 
 ## Sample slide with a code block with a colored background and syntax highlighting
@@ -53,6 +51,7 @@ Duplicate the kind of slide you need and delete or comment on the rest.
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
 | Version 0.2 |  Added funding and update table.                                                                                                           | 2024 May 4           |
+| Version 0.3|  Minor edits of README.md.                                                                                                                  | 2024 December 11          |
 
 ## Funding
 
